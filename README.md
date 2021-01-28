@@ -22,7 +22,9 @@ Print double-sided and assemble the calendar.
 
 ## Design
 
-This is a basic calendar to print on Letter or A4 size paper with an image at the top and monthly calendar table below.
+This is a basic calendar to print on Letter or A4 size paper with an image and calendar table for each month.
+
+![Example monthly layout](example_layout.png)
 
 The template includes images from the Dover [Exotic Butterflies and Moths Coloring Book](https://store.doverpublications.com/0486423816.html) by Ruth Soffer that I hand-painted in watercolour. I retouched high-resolution scans to use as the decorative panels in the printable calendar. Each month shows a different illustration and is captioned with the name of the species.
 
