@@ -1,19 +1,32 @@
-holidays:
-        - - July
-          - 27
-          - Paul Birthday
-        - - January
-          - 1
-          - New Year
-        - - May
-          - 19
-          - Rachel Birthday
-        - - July
-          - 1
-          - Canada Day
-        - - September
-          - 19
-          - Oliver Birthday
-        - - May
-          - 19
-          - Victoria Day
+year: 2021
+
+# 6 to start week on Sun, 0 to start on Mon
+firstweekday: 6
+
+custom_holidays:
+        - month: July
+          day: 27
+          name: Paul Birthday
+        - month: January
+          day: 1
+          name: New Year
+        - month: May
+          day: 19
+          name: Rachel Birthday
+        - month: July
+          day: 1
+          name: Canada Day
+        - month: September
+          day: 19
+          name: Oliver Birthday
+        - month: May
+          day: 19
+          name: Victoria Day
+
+# Country and province/state if applicable
+country: CA
+province: 
+state: 
+
+# Set height of calendar cell in LaTeX table
+day_height: 20ex
