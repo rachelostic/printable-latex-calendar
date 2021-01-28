@@ -18,7 +18,7 @@ pip install holidays
 
 Now you can compile **main.tex** with LaTeX to generate a printable pdf. It uses the tables generated with **flexiblecalendar.py** and includes the images and captions from their respective folders. 
 
-Print double-sided portrait format with settings for binding on short edge and assemble the calendar.
+Print double-sided and assemble the calendar.
 
 ## Design
 
